@@ -1,0 +1,20 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/49/hvd.32044096580709/687.png"; bbox 0 0 4022 6220; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1626 1542 2620 1699">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1698 1574 2613 1699">
+     <span class='ocr_line' id='line_1_1' title="bbox 1698 1574 2613 1699; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 1698 1610 1777 1684; x_wconf 85' lang='lat'>/-</span> <span class='ocrx_word' id='word_1_2' title='bbox 1814 1606 1999 1699; x_wconf 68' lang='lat' dir='ltr'>mss</span> <span class='ocrx_word' id='word_1_3' title='bbox 2050 1602 2388 1698; x_wconf 61' lang='grc' dir='ltr'>νῡωῖεξε</span> <span class='ocrx_word' id='word_1_4' title='bbox 2420 1574 2613 1671; x_wconf 60' lang='grc' dir='ltr'>κ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1647 1740 2565 1836">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1647 1740 2565 1836">
+     <span class='ocr_line' id='line_1_2' title="bbox 1647 1740 2565 1836; baseline 0 -3"><span class='ocrx_word' id='word_1_5' title='bbox 1647 1745 1854 1834; x_wconf 71' lang='lat' dir='ltr'>DOES</span> <span class='ocrx_word' id='word_1_6' title='bbox 1912 1746 2065 1835; x_wconf 60' lang='lat' dir='ltr'>NCT</span> <span class='ocrx_word' id='word_1_7' title='bbox 2121 1740 2565 1836; x_wconf 56' lang='lat' dir='ltr'>CBRCUU’IE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1642 1878 2575 1970">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1642 1878 2575 1970">
+     <span class='ocr_line' id='line_1_3' title="bbox 1642 1878 2575 1970; baseline -0.005 0"><span class='ocrx_word' id='word_1_8' title='bbox 1642 1879 1981 1970; x_wconf 68' lang='lat' dir='ltr'>OUTSIDE</span> <span class='ocrx_word' id='word_1_9' title='bbox 2032 1879 2185 1965; x_wconf 60' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_10' title='bbox 2240 1878 2575 1967; x_wconf 55' lang='lat' dir='ltr'>UBE-’AEY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
